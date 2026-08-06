@@ -1,14 +1,13 @@
 {
-    "livstid": "8eb689e53080440ad1453ad07f6a829f3854f3d319b2fd511a892da8ddee84e4",
+    "livstid": {
+        "hwid": "8eb689e53080440ad1453ad07f6a829f3854f3d319b2fd511a892da8ddee84e4",
+        "vence": "2026-09-03",
+        "tg_id": null
+    },
     "reinaldo": {
         "hwid": "99bdc2d00f8236b04ea9fd0d7496fb591d651688a8fe0aca1b9e774d687082b0",
         "vence": "2026-09-03",
         "tg_id": 6652012782
-    },
-    "@Ser_Alejo": {
-        "hwid": "3b44af524b9f274e166eb9990a7065d8d137451afb0f3d556334808270e67bfd",
-        "vence": "2026-09-04",
-        "tg_id": 8165084279
     },
     "Ser_Alejo": {
         "hwid": "3b44af524b9f274e166eb9990a7065d8d137451afb0f3d556334808270e67bfd",
