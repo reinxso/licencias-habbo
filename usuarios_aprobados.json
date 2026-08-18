@@ -1,65 +1,69 @@
 {
-    "livstid": {
-        "hwid": "8eb689e53080440ad1453ad07f6a829f3854f3d319b2fd511a892da8ddee84e4",
-        "tg_id": null
-    },
-    "livstid2": {
-        "hwid": "ae1081d0cbfc69003e2f17213f2635db52eedebd0321baa515c5bfd5a8e546ba",
-        "tg_id": null
-    },
-    "reinaldo": {
-        "hwid": "99bdc2d00f8236b04ea9fd0d7496fb591d651688a8fe0aca1b9e774d687082b0",
-        "vence": "2026-09-03",
-        "tg_id": 6652012782
-    },
-    "Ser_Alejo": {
-        "hwid": "3b44af524b9f274e166eb9990a7065d8d137451afb0f3d556334808270e67bfd",
-        "vence": "2026-09-04",
-        "tg_id": 8165084279
-    },
-    "@NiczaelU": {
-        "hwid": "f504bb11d4bb712b24a1bcc0ea7f907baf83c1d448ae632307b7c9abd085f442",
-        "vence": "2026-09-04",
-        "tg_id": 6292239646
-    },
-    "@andersonnHB": {
-        "hwid": "df00239e3c004bd76c2f23ce9879c6b245702dee0eaa6fb490a2c4fadc72abaa",
-        "vence": "2026-09-04",
-        "tg_id": 7011168422
-    },
-    "@orvex23": {
-        "hwid": "6b5c703880bc7c0dcd67fddabae0449cf876850c881df9de46777a3f14a18d50",
-        "vence": "2026-09-05",
-        "tg_id": 8119033797
-    },
-    "@tay!": {
-        "hwid": "784bc4c369c79204c158069b0234b9ae9802234a818d648eec650a8ed5a01866",
-        "vence": "2026-09-06",
-        "tg_id": 6839837518
-    },
-    "kenai": {
-        "hwid": "f395a41e4b156dc4e82888c04d00fd92a4d28adb3a42af193e7249c2366fe1de",
-        "vence": "2026-09-10",
-        "tg_id": 6963313351
-    },
-    "karpe": {
-        "hwid": "c6d3aadf346dc2a755698cfaa34b91348827bdb9ae335cb93bf71ac6649e234c",
-        "vence": "2026-09-10",
-        "tg_id": 8303803727
-    },
-    "michelle": {
-        "hwid": "d29545b4aa55e26c3b9aed31c46b3b9f1db8bca8b7f6df4585cba6c02df5441f",
-        "vence": "2026-09-10",
-        "tg_id": 7915620879
-    },
-    "Calderon": {
-        "hwid": "9305d926bb9858a476a19b70401b219ad8fb069537083d4cd015658f0703b660",
-        "vence": "2026-09-10",
-        "tg_id": 7865809025
-    },
-    "JorgeDa21": {
-        "hwid": "80ef6234ac8202ec7106c2e73883b62dfaa793620e1a127bd0f448eac18b210b",
-        "vence": "2026-09-16",
-        "tg_id": 7047272175
-    }
+  "livstid": {
+    "hwid": "8eb689e53080440ad1453ad07f6a829f3854f3d319b2fd511a892da8ddee84e4",
+    "tg_id": null
+  },
+  "livstid2": {
+    "hwid": "ae1081d0cbfc69003e2f17213f2635db52eedebd0321baa515c5bfd5a8e546ba",
+    "tg_id": null
+  },
+  "reinaldo": {
+    "hwid": "99bdc2d00f8236b04ea9fd0d7496fb591d651688a8fe0aca1b9e774d687082b0",
+    "vence": "2026-09-03",
+    "tg_id": 6652012782
+  },
+  "Ser_Alejo": {
+    "hwid": "3b44af524b9f274e166eb9990a7065d8d137451afb0f3d556334808270e67bfd",
+    "vence": "2026-09-04",
+    "tg_id": 8165084279
+  },
+  "@NiczaelU": {
+    "hwid": "f504bb11d4bb712b24a1bcc0ea7f907baf83c1d448ae632307b7c9abd085f442",
+    "vence": "2026-09-04",
+    "tg_id": 6292239646
+  },
+  "@andersonnHB": {
+    "hwid": "df00239e3c004bd76c2f23ce9879c6b245702dee0eaa6fb490a2c4fadc72abaa",
+    "vence": "2026-09-04",
+    "tg_id": 7011168422
+  },
+  "@orvex23": {
+    "hwid": "6b5c703880bc7c0dcd67fddabae0449cf876850c881df9de46777a3f14a18d50",
+    "vence": "2026-09-05",
+    "tg_id": 8119033797
+  },
+  "@tay!": {
+    "hwid": "784bc4c369c79204c158069b0234b9ae9802234a818d648eec650a8ed5a01866",
+    "vence": "2026-09-06",
+    "tg_id": 6839837518
+  },
+  "kenai": {
+    "hwid": "f395a41e4b156dc4e82888c04d00fd92a4d28adb3a42af193e7249c2366fe1de",
+    "vence": "2026-09-10",
+    "tg_id": 6963313351
+  },
+  "karpe": {
+    "hwid": "c6d3aadf346dc2a755698cfaa34b91348827bdb9ae335cb93bf71ac6649e234c",
+    "vence": "2026-09-10",
+    "tg_id": 8303803727
+  },
+  "michelle": {
+    "hwid": "d29545b4aa55e26c3b9aed31c46b3b9f1db8bca8b7f6df4585cba6c02df5441f",
+    "vence": "2026-09-10",
+    "tg_id": 7915620879
+  },
+  "Calderon": {
+    "hwid": "9305d926bb9858a476a19b70401b219ad8fb069537083d4cd015658f0703b660",
+    "vence": "2026-09-10",
+    "tg_id": 7865809025
+  },
+  "JorgeDa21": {
+    "hwid": "80ef6234ac8202ec7106c2e73883b62dfaa793620e1a127bd0f448eac18b210b",
+    "vence": "2026-09-16",
+    "tg_id": 7047272175
+  },
+  "daniel28u": {
+    "hwid": "",
+    "vence": "2026-09-16"
+  }
 }
