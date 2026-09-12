@@ -80,7 +80,10 @@
         "tg_id": 7011168422
     },
     "@JorgeDa": {
-        "hwid": "b5988e1daa01c9f57fda02c6ad5600c0ca20e2c8e2f68f3547edee40181fddb1",
+        "hwids": [
+            "b5988e1daa01c9f57fda02c6ad5600c0ca20e2c8e2f68f3547edee40181fddb1",
+            "0734046344067ce9542ef9da8740a6925b28ad180f3889583b29acb7dd4a345b"
+        ],
         "vence": "2026-09-24",
         "tg_id": 7047272175
     },
